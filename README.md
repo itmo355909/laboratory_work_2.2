@@ -1,1 +1,1 @@
-<h1>It's repository for 1st exercise :smile:</h1>
+<h1 align="center">It's repository for 1st exercise :smile:</h1>
